@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = ssid
+description = Show the wifi SSID you are connected to (dep: iw, awk)

@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = tahoe-lafs
+description = Show status of your tahoe-lafs grid

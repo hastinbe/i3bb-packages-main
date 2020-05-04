@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = usb
+description = Show connected usb storage device info

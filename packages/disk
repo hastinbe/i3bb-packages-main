@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = disk
+description = Show disk usage (space used) for a given directory

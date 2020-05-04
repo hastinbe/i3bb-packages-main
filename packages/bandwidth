@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = bandwidth
+description = Show bandwidth information (default bash version)

@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = dunst
+description = Toggle Dunst notifications using a simple Do-Not-Disturb button

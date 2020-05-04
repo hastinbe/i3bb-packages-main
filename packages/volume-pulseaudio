@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = volume-pulseaudio
+description = Pretty print system volume for pulseaudio

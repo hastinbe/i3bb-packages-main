@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = shutdown_menu
+description = Shutdown menu using rofi or zenity

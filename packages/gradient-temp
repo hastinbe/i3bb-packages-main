@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = gradient-temp
+description = Show temperature of a sensor using a heat gradient

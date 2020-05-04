@@ -1,0 +1,4 @@
+type = blocklet
+repository = https://github.com/vivien/i3blocks-contrib
+subdirectory = ytdl-mpv
+description = Play youtube videos from your clipboard using youtube-dl
