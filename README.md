@@ -26,7 +26,7 @@ maintainer = YOUR-NAME <YOUR-EMAIL>
 description = YOUR-PACKAGE-DESCRIPTION
 ```
 
-Be sure to use a cloneable Git URL for your package. If your package is a theme, use `type = theme` instead.
+Be sure to use a cloneable Git URL for your package.
 
 Once you've created and committed your package description file, [open a pull request][new-pr] with your change, and the repository maintainers will review your submission and merge it in to the main repo.
 
